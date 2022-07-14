@@ -14,10 +14,6 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TippieCodes&show_icons=true&theme=radical&count_private=true)
