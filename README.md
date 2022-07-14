@@ -1,4 +1,5 @@
 ![header](https://github.com/rowan-vr/rowan-vr/blob/main/header.png?raw=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=rowan-vr)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TippieCodes)](https://git.io/streak-stats)
 ![snake gif](https://github.com/rowan-vr/rowan-vr/blob/output/github-contribution-grid-snake.gif)
