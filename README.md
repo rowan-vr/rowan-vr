@@ -1,5 +1,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TippieCodes)](https://git.io/streak-stats)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--START_SECTION:waka-->
 
 ```text
