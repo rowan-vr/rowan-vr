@@ -1,6 +1,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TippieCodes)](https://git.io/streak-stats)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#30](https://github.com/TippieCodes/CustomAdvancements/pull/30) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
+2. 💪 Opened PR [#30](https://github.com/TippieCodes/CustomAdvancements/pull/30) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
+3. 🗣 Commented on [#29](https://github.com/TippieCodes/CustomAdvancements/issues/29) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
+4. 🗣 Commented on [#28](https://github.com/TippieCodes/CustomAdvancements/issues/28) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
+5. 🗣 Commented on [#27](https://github.com/TippieCodes/CustomAdvancements/issues/27) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
