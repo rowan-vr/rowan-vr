@@ -18,7 +18,7 @@
 <!--END_SECTION:waka-->
 
 ## Github Stats
-<div align="center" style="display: flex; flex: row;"><img src="https://github-readme-stats.vercel.app/api?username=rowan-vr&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=TippieCodes" align="center" /></div>  
+<div align="center" style="display: flex; flex: row;"><img src="https://github-readme-stats.vercel.app/api?username=rowan-vr&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=rowan-vr" align="center" /></div>  
 <br/>  
 
 ## My Skill Set  
