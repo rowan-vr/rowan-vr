@@ -8,9 +8,6 @@
 5. 🗣 Commented on [#27](https://github.com/TippieCodes/CustomAdvancements/issues/27) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
 <!--END_SECTION:activity-->
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=rowanvr&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=rowanvr&cover_image=true&theme=novatorem&bar_color=fb7b04&bar_color_cover=false)]]
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ```text
 No activity tracked
