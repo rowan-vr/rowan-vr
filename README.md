@@ -8,7 +8,7 @@
 5. 🗣 Commented on [#27](https://github.com/TippieCodes/CustomAdvancements/issues/27) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
 <!--END_SECTION:activity-->
 
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 No activity tracked
 ```
