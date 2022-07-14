@@ -1,5 +1,10 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TippieCodes)](https://git.io/streak-stats)
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TippieCodes)](https://git.io/streak-stats)
+![snake gif](https://github.com/rowan-vr/rowan-vr/blob/output/github-contribution-grid-snake.gif)
+
+## Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#30](https://github.com/TippieCodes/CustomAdvancements/pull/30) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
 2. 💪 Opened PR [#30](https://github.com/TippieCodes/CustomAdvancements/pull/30) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
