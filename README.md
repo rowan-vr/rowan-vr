@@ -9,9 +9,6 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
 
 ```text
 No activity tracked
