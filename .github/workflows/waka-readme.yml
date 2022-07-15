@@ -15,4 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          INPUT_PUSH_BRANCH_NAME: main
+          PUSH_BRANCH_NAME: main
