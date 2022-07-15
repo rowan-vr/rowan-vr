@@ -15,61 +15,12 @@
 
 ## Last week
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,060 Contributions in the Year 2022
- > 
-> 📦 85.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    61 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-🌆 Daytime    423 commits    ███████░░░░░░░░░░░░░░░░░░   30.43% 
-🌃 Evening    527 commits    █████████░░░░░░░░░░░░░░░░   37.91% 
-🌙 Night      379 commits    ██████░░░░░░░░░░░░░░░░░░░   27.27%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       159 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Tuesday      188 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
-Wednesday    233 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
-Thursday     159 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Friday       201 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-Saturday     178 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
-Sunday       272 commits    █████░░░░░░░░░░░░░░░░░░░░   19.57%
-
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2021%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 
 ```
 
@@ -85,12 +36,8 @@ Python                   1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/rowan-vr/rowan-vr/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/07/2022 01:21:09 UTC
+ Last Updated on TRUE UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
