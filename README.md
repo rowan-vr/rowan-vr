@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rowan-vr/waka-readme-stats/pull/1) in [rowan-vr/waka-readme-stats](https://github.com/rowan-vr/waka-readme-stats)
-2. 💪 Opened PR [#1](https://github.com/rowan-vr/waka-readme-stats/pull/1) in [rowan-vr/waka-readme-stats](https://github.com/rowan-vr/waka-readme-stats)
-3. 💪 Opened PR [#303](https://github.com/anmol098/waka-readme-stats/pull/303) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. ❗️ Opened issue [#302](https://github.com/anmol098/waka-readme-stats/issues/302) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 🎉 Merged PR [#30](https://github.com/TippieCodes/CustomAdvancements/pull/30) in [TippieCodes/CustomAdvancements](https://github.com/TippieCodes/CustomAdvancements)
+1. 🗣 Commented on [#32](https://github.com/rowan-vr/CustomAdvancements/issues/32) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+2. 🎉 Merged PR [#1](https://github.com/rowan-vr/waka-readme-stats/pull/1) in [rowan-vr/waka-readme-stats](https://github.com/rowan-vr/waka-readme-stats)
+3. 💪 Opened PR [#1](https://github.com/rowan-vr/waka-readme-stats/pull/1) in [rowan-vr/waka-readme-stats](https://github.com/rowan-vr/waka-readme-stats)
+4. 💪 Opened PR [#303](https://github.com/anmol098/waka-readme-stats/pull/303) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. ❗️ Opened issue [#302](https://github.com/anmol098/waka-readme-stats/issues/302) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 ## Last week
