@@ -13,7 +13,7 @@
 5. ❗️ Opened issue [#302](https://github.com/anmol098/waka-readme-stats/issues/302) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
-## Last week
+## Statistics
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2049%20mins-blue)
 
