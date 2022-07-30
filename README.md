@@ -15,9 +15,9 @@
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-316%20Thousand%20lines%20of%20code-blue)
 
@@ -102,7 +102,7 @@ Python                   1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/rowan-vr/rowan-vr/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/07/2022 01:48:28 UTC
+ Last Updated on 30/07/2022 06:23:37 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
