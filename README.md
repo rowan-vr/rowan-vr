@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2341](https://github.com/svthalia/concrexit/issues/2341) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+1. 🗣 Commented on [#62](https://github.com/rowan-vr/CustomAdvancements/issues/62) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 2. ❗️ Closed issue [#2341](https://github.com/svthalia/concrexit/issues/2341) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
-3. 🗣 Commented on [#2341](https://github.com/svthalia/concrexit/issues/2341) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
-4. ❗️ Closed issue [#786](https://github.com/svthalia/concrexit/issues/786) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
-5. 🎉 Merged PR [#2459](https://github.com/svthalia/concrexit/pull/2459) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+3. ❗️ Closed issue [#2341](https://github.com/svthalia/concrexit/issues/2341) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+4. 🗣 Commented on [#2341](https://github.com/svthalia/concrexit/issues/2341) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+5. ❗️ Closed issue [#786](https://github.com/svthalia/concrexit/issues/786) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
 <!--END_SECTION:activity-->
 
 ## Statistics
