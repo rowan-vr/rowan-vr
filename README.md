@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/rowan-vr/CustomAdvancements/issues/64) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-2. 🎉 Merged PR [#9](https://github.com/rowan-vr/TippieUtils/pull/9) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-3. 💪 Opened PR [#9](https://github.com/rowan-vr/TippieUtils/pull/9) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-4. 🗣 Commented on [#62](https://github.com/rowan-vr/CustomAdvancements/issues/62) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#63](https://github.com/rowan-vr/CustomAdvancements/issues/63) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🗣 Commented on [#53](https://github.com/rowan-vr/CustomAdvancements/issues/53) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+2. ❗️ Reopened issue [#53](https://github.com/rowan-vr/CustomAdvancements/issues/53) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+3. 🗣 Commented on [#64](https://github.com/rowan-vr/CustomAdvancements/issues/64) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+4. 🎉 Merged PR [#9](https://github.com/rowan-vr/TippieUtils/pull/9) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+5. 💪 Opened PR [#9](https://github.com/rowan-vr/TippieUtils/pull/9) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
 <!--END_SECTION:activity-->
 
 ## Statistics
