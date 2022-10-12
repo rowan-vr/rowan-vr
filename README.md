@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/rowan-vr/CustomAdvancements/issues/52) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-2. 🗣 Commented on [#46](https://github.com/rowan-vr/CustomAdvancements/issues/46) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-3. 🗣 Commented on [#53](https://github.com/rowan-vr/CustomAdvancements/issues/53) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-4. ❗️ Reopened issue [#53](https://github.com/rowan-vr/CustomAdvancements/issues/53) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#64](https://github.com/rowan-vr/CustomAdvancements/issues/64) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🎉 Merged PR [#2574](https://github.com/svthalia/concrexit/pull/2574) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+2. ❗️ Closed issue [#2573](https://github.com/svthalia/concrexit/issues/2573) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+3. 🎉 Merged PR [#2576](https://github.com/svthalia/concrexit/pull/2576) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+4. 💪 Opened PR [#2576](https://github.com/svthalia/concrexit/pull/2576) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+5. 🗣 Commented on [#52](https://github.com/rowan-vr/CustomAdvancements/issues/52) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
