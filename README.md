@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#271](https://github.com/svthalia/Reaxit/pull/271) in [svthalia/Reaxit](https://github.com/svthalia/Reaxit)
-2. ❌ Closed PR [#199](https://github.com/svthalia/Reaxit/pull/199) in [svthalia/Reaxit](https://github.com/svthalia/Reaxit)
-3. 🗣 Commented on [#199](https://github.com/svthalia/Reaxit/issues/199) in [svthalia/Reaxit](https://github.com/svthalia/Reaxit)
-4. 🗣 Commented on [#71](https://github.com/rowan-vr/CustomAdvancements/issues/71) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#78](https://github.com/rowan-vr/CustomAdvancements/issues/78) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🎉 Merged PR [#10](https://github.com/rowan-vr/TippieUtils/pull/10) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+2. 💪 Opened PR [#10](https://github.com/rowan-vr/TippieUtils/pull/10) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+3. 💪 Opened PR [#271](https://github.com/svthalia/Reaxit/pull/271) in [svthalia/Reaxit](https://github.com/svthalia/Reaxit)
+4. ❌ Closed PR [#199](https://github.com/svthalia/Reaxit/pull/199) in [svthalia/Reaxit](https://github.com/svthalia/Reaxit)
+5. 🗣 Commented on [#199](https://github.com/svthalia/Reaxit/issues/199) in [svthalia/Reaxit](https://github.com/svthalia/Reaxit)
 <!--END_SECTION:activity-->
 
 ## Statistics
