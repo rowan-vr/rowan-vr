@@ -23,7 +23,7 @@
 
 > 🏆 1,408 Contributions in the Year 2022
  > 
-> 📦 83.8 kB Used in GitHub's Storage 
+> 📦 83.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,7 +97,7 @@ TeX                      2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/rowan-vr/rowan-vr/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2022 03:23:13 UTC
+ Last Updated on 01/11/2022 03:42:46 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
