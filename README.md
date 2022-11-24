@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/TheKimiNoUso/KimiVanish/pull/2) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
-2. 🎉 Merged PR [#2666](https://github.com/svthalia/concrexit/pull/2666) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
-3. 💪 Opened PR [#2666](https://github.com/svthalia/concrexit/pull/2666) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
-4. 🗣 Commented on [#87](https://github.com/rowan-vr/CustomAdvancements/issues/87) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. ❗️ Closed issue [#71](https://github.com/rowan-vr/CustomAdvancements/issues/71) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 💪 Opened PR [#3](https://github.com/TheKimiNoUso/KimiVanish/pull/3) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
+2. 💪 Opened PR [#2](https://github.com/TheKimiNoUso/KimiVanish/pull/2) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
+3. 🎉 Merged PR [#2666](https://github.com/svthalia/concrexit/pull/2666) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+4. 💪 Opened PR [#2666](https://github.com/svthalia/concrexit/pull/2666) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+5. 🗣 Commented on [#87](https://github.com/rowan-vr/CustomAdvancements/issues/87) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
