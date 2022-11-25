@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/rowan-vr/TippieUtils/pull/11) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-2. 💪 Opened PR [#11](https://github.com/rowan-vr/TippieUtils/pull/11) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-3. 💪 Opened PR [#3](https://github.com/TheKimiNoUso/KimiVanish/pull/3) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
-4. 💪 Opened PR [#2](https://github.com/TheKimiNoUso/KimiVanish/pull/2) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
-5. 🎉 Merged PR [#2666](https://github.com/svthalia/concrexit/pull/2666) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+1. 💪 Opened PR [#4](https://github.com/TheKimiNoUso/KimiVanish/pull/4) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
+2. 🎉 Merged PR [#11](https://github.com/rowan-vr/TippieUtils/pull/11) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+3. 💪 Opened PR [#11](https://github.com/rowan-vr/TippieUtils/pull/11) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+4. 💪 Opened PR [#3](https://github.com/TheKimiNoUso/KimiVanish/pull/3) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
+5. 💪 Opened PR [#2](https://github.com/TheKimiNoUso/KimiVanish/pull/2) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
 <!--END_SECTION:activity-->
 
 ## Statistics
