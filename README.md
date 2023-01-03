@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/rowan-vr/CustomAdvancements/issues/91) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-2. 💪 Opened PR [#4](https://github.com/TheKimiNoUso/KimiVanish/pull/4) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
-3. 🎉 Merged PR [#11](https://github.com/rowan-vr/TippieUtils/pull/11) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-4. 💪 Opened PR [#11](https://github.com/rowan-vr/TippieUtils/pull/11) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-5. 💪 Opened PR [#3](https://github.com/TheKimiNoUso/KimiVanish/pull/3) in [TheKimiNoUso/KimiVanish](https://github.com/TheKimiNoUso/KimiVanish)
+1. 🗣 Commented on [#90](https://github.com/rowan-vr/CustomAdvancements/issues/90) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+2. 🗣 Commented on [#88](https://github.com/rowan-vr/CustomAdvancements/issues/88) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+3. 🗣 Commented on [#93](https://github.com/rowan-vr/CustomAdvancements/issues/93) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+4. ❗️ Reopened issue [#92](https://github.com/rowan-vr/CustomAdvancements/issues/92) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+5. 🗣 Commented on [#92](https://github.com/rowan-vr/CustomAdvancements/issues/92) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
