@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3707](https://github.com/h2database/h2database/issues/3707) in [h2database/h2database](https://github.com/h2database/h2database)
-2. 🗣 Commented on [#104](https://github.com/rowan-vr/CustomAdvancements/issues/104) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-3. 🗣 Commented on [#101](https://github.com/rowan-vr/CustomAdvancements/issues/101) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-4. 🎉 Merged PR [#103](https://github.com/rowan-vr/CustomAdvancements/pull/103) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. ❗️ Closed issue [#100](https://github.com/rowan-vr/CustomAdvancements/issues/100) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. ❗️ Closed issue [#3707](https://github.com/h2database/h2database/issues/3707) in [h2database/h2database](https://github.com/h2database/h2database)
+2. 🗣 Commented on [#3707](https://github.com/h2database/h2database/issues/3707) in [h2database/h2database](https://github.com/h2database/h2database)
+3. ❗️ Opened issue [#3707](https://github.com/h2database/h2database/issues/3707) in [h2database/h2database](https://github.com/h2database/h2database)
+4. 🗣 Commented on [#104](https://github.com/rowan-vr/CustomAdvancements/issues/104) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+5. 🗣 Commented on [#101](https://github.com/rowan-vr/CustomAdvancements/issues/101) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
