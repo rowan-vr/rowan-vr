@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2793](https://github.com/svthalia/concrexit/pull/2793) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
-2. 🗣 Commented on [#104](https://github.com/rowan-vr/CustomAdvancements/issues/104) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-3. ❗️ Closed issue [#107](https://github.com/rowan-vr/CustomAdvancements/issues/107) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-4. 🗣 Commented on [#107](https://github.com/rowan-vr/CustomAdvancements/issues/107) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#108](https://github.com/rowan-vr/CustomAdvancements/issues/108) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. ❗️ Opened issue [#4421](https://github.com/mindsdb/mindsdb/issues/4421) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. ❗️ Opened issue [#4420](https://github.com/mindsdb/mindsdb/issues/4420) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+3. 💪 Opened PR [#2793](https://github.com/svthalia/concrexit/pull/2793) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+4. 🗣 Commented on [#104](https://github.com/rowan-vr/CustomAdvancements/issues/104) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+5. ❗️ Closed issue [#107](https://github.com/rowan-vr/CustomAdvancements/issues/107) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
