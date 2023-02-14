@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/rowan-vr/CustomAdvancements/issues/110) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-2. 🗣 Commented on [#109](https://github.com/rowan-vr/CustomAdvancements/issues/109) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-3. ❗️ Opened issue [#4421](https://github.com/mindsdb/mindsdb/issues/4421) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-4. ❗️ Opened issue [#4420](https://github.com/mindsdb/mindsdb/issues/4420) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-5. 💪 Opened PR [#2793](https://github.com/svthalia/concrexit/pull/2793) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+1. 💪 Opened PR [#413](https://github.com/polybar/polybar-scripts/pull/413) in [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts)
+2. 🗣 Commented on [#110](https://github.com/rowan-vr/CustomAdvancements/issues/110) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+3. 🗣 Commented on [#109](https://github.com/rowan-vr/CustomAdvancements/issues/109) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+4. ❗️ Opened issue [#4421](https://github.com/mindsdb/mindsdb/issues/4421) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+5. ❗️ Opened issue [#4420](https://github.com/mindsdb/mindsdb/issues/4420) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 ## Statistics
