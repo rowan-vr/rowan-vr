@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#112](https://github.com/kleydon/prisma-session-store/issues/112) in [kleydon/prisma-session-store](https://github.com/kleydon/prisma-session-store)
-2. 💪 Opened PR [#2839](https://github.com/svthalia/concrexit/pull/2839) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
-3. 💪 Opened PR [#413](https://github.com/polybar/polybar-scripts/pull/413) in [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts)
-4. 🗣 Commented on [#110](https://github.com/rowan-vr/CustomAdvancements/issues/110) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#109](https://github.com/rowan-vr/CustomAdvancements/issues/109) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🗣 Commented on [#112](https://github.com/kleydon/prisma-session-store/issues/112) in [kleydon/prisma-session-store](https://github.com/kleydon/prisma-session-store)
+2. ❗️ Opened issue [#112](https://github.com/kleydon/prisma-session-store/issues/112) in [kleydon/prisma-session-store](https://github.com/kleydon/prisma-session-store)
+3. 💪 Opened PR [#2839](https://github.com/svthalia/concrexit/pull/2839) in [svthalia/concrexit](https://github.com/svthalia/concrexit)
+4. 💪 Opened PR [#413](https://github.com/polybar/polybar-scripts/pull/413) in [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts)
+5. 🗣 Commented on [#110](https://github.com/rowan-vr/CustomAdvancements/issues/110) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
