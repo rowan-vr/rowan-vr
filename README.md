@@ -7,10 +7,10 @@
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#121](https://github.com/rowan-vr/CustomAdvancements/issues/121) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-2. 🗣 Commented on [#120](https://github.com/rowan-vr/CustomAdvancements/issues/120) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-3. ❗️ Opened issue [#403](https://github.com/svthalia/Reaxit/issues/403) in [svthalia/Reaxit](https://github.com/svthalia/Reaxit)
-4. 🗣 Commented on [#118](https://github.com/rowan-vr/CustomAdvancements/issues/118) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#112](https://github.com/rowan-vr/CustomAdvancements/issues/112) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+2. 🗣 Commented on [#121](https://github.com/rowan-vr/CustomAdvancements/issues/121) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+3. 🗣 Commented on [#120](https://github.com/rowan-vr/CustomAdvancements/issues/120) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+4. ❗️ Opened issue [#403](https://github.com/svthalia/Reaxit/issues/403) in [svthalia/Reaxit](https://github.com/svthalia/Reaxit)
+5. 🗣 Commented on [#118](https://github.com/rowan-vr/CustomAdvancements/issues/118) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
