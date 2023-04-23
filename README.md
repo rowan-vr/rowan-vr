@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rowan-vr/Essentials/pull/1) in [rowan-vr/Essentials](https://github.com/rowan-vr/Essentials)
-2. 💪 Opened PR [#1](https://github.com/rowan-vr/Essentials/pull/1) in [rowan-vr/Essentials](https://github.com/rowan-vr/Essentials)
-3. 💪 Opened PR [#5320](https://github.com/EssentialsX/Essentials/pull/5320) in [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials)
-4. 🗣 Commented on [#126](https://github.com/rowan-vr/CustomAdvancements/issues/126) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#125](https://github.com/rowan-vr/CustomAdvancements/issues/125) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🗣 Commented on [#128](https://github.com/rowan-vr/CustomAdvancements/issues/128) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+2. 🎉 Merged PR [#1](https://github.com/rowan-vr/Essentials/pull/1) in [rowan-vr/Essentials](https://github.com/rowan-vr/Essentials)
+3. 💪 Opened PR [#1](https://github.com/rowan-vr/Essentials/pull/1) in [rowan-vr/Essentials](https://github.com/rowan-vr/Essentials)
+4. 💪 Opened PR [#5320](https://github.com/EssentialsX/Essentials/pull/5320) in [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials)
+5. 🗣 Commented on [#126](https://github.com/rowan-vr/CustomAdvancements/issues/126) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
