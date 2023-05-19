@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#559](https://github.com/svthalia/thadmin/pull/559) in [svthalia/thadmin](https://github.com/svthalia/thadmin)
-2. 💪 Opened PR [#558](https://github.com/svthalia/thadmin/pull/558) in [svthalia/thadmin](https://github.com/svthalia/thadmin)
-3. 🗣 Commented on [#131](https://github.com/rowan-vr/CustomAdvancements/issues/131) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🗣 Commented on [#19143](https://github.com/prisma/prisma/issues/19143) in [prisma/prisma](https://github.com/prisma/prisma)
+2. 💪 Opened PR [#559](https://github.com/svthalia/thadmin/pull/559) in [svthalia/thadmin](https://github.com/svthalia/thadmin)
+3. 💪 Opened PR [#558](https://github.com/svthalia/thadmin/pull/558) in [svthalia/thadmin](https://github.com/svthalia/thadmin)
 4. 🗣 Commented on [#131](https://github.com/rowan-vr/CustomAdvancements/issues/131) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#130](https://github.com/rowan-vr/CustomAdvancements/issues/130) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+5. 🗣 Commented on [#131](https://github.com/rowan-vr/CustomAdvancements/issues/131) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
