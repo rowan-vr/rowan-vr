@@ -15,7 +15,7 @@
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.6%20million%20lines%20of%20code-blue)
 
@@ -87,7 +87,7 @@ C                        1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/rowan-vr/rowan-vr/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2023 02:05:06 UTC
+ Last Updated on 21/08/2023 01:59:43 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
