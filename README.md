@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#173](https://github.com/rowan-vr/CustomAdvancements/pull/173) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-2. 🗣 Commented on [#171](https://github.com/rowan-vr/CustomAdvancements/issues/171#issuecomment-1798331602) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-3. 🔒 Closed issue [#171](https://github.com/rowan-vr/CustomAdvancements/issues/171) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-4. 🗣 Commented on [#134](https://github.com/rowan-vr/CustomAdvancements/issues/134#issuecomment-1798329443) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🔓 Reopened issue [#134](https://github.com/rowan-vr/CustomAdvancements/issues/134) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🗣 Commented on [#170](https://github.com/rowan-vr/CustomAdvancements/issues/170#issuecomment-1844810073) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+2. 🔒 Closed issue [#170](https://github.com/rowan-vr/CustomAdvancements/issues/170) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+3. 🚀 Published release [v1.2.10](https://github.com/rowan-vr/CustomAdvancements/releases/tag/v1.2.10) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+4. 🎉 Merged PR [#173](https://github.com/rowan-vr/CustomAdvancements/pull/173) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+5. 💪 Opened PR [#173](https://github.com/rowan-vr/CustomAdvancements/pull/173) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
