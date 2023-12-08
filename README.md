@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/rowan-vr/CustomAdvancements/issues/154#issuecomment-1846993900) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-2. 🔒 Closed issue [#154](https://github.com/rowan-vr/CustomAdvancements/issues/154) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-3. 🗣 Commented on [#151](https://github.com/rowan-vr/CustomAdvancements/issues/151#issuecomment-1846809250) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-4. 🗣 Commented on [#170](https://github.com/rowan-vr/CustomAdvancements/issues/170#issuecomment-1844810073) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🔒 Closed issue [#170](https://github.com/rowan-vr/CustomAdvancements/issues/170) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🔒 Closed issue [#146](https://github.com/rowan-vr/CustomAdvancements/issues/146) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+2. 🗣 Commented on [#151](https://github.com/rowan-vr/CustomAdvancements/issues/151#issuecomment-1847027076) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+3. 🗣 Commented on [#154](https://github.com/rowan-vr/CustomAdvancements/issues/154#issuecomment-1846993900) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+4. 🔒 Closed issue [#154](https://github.com/rowan-vr/CustomAdvancements/issues/154) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+5. 🗣 Commented on [#151](https://github.com/rowan-vr/CustomAdvancements/issues/151#issuecomment-1846809250) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
