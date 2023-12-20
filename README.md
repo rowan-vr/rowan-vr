@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.1.1](https://github.com/rowan-vr/TippieUtils/releases/tag/v3.1.1) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-2. 🎉 Merged PR [#13](https://github.com/rowan-vr/TippieUtils/pull/13) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-3. 🗣 Commented on [#152](https://github.com/rowan-vr/CustomAdvancements/issues/152#issuecomment-1848447675) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-4. 🔒 Closed issue [#153](https://github.com/rowan-vr/CustomAdvancements/issues/153) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-5. 🗣 Commented on [#156](https://github.com/rowan-vr/CustomAdvancements/issues/156#issuecomment-1848447246) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. 🚀 Published release [v3.1.1a](https://github.com/rowan-vr/TippieUtils/releases/tag/v3.1.1a) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+2. 🚀 Published release [v3.1.1](https://github.com/rowan-vr/TippieUtils/releases/tag/v3.1.1) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+3. 🎉 Merged PR [#13](https://github.com/rowan-vr/TippieUtils/pull/13) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+4. 🗣 Commented on [#152](https://github.com/rowan-vr/CustomAdvancements/issues/152#issuecomment-1848447675) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+5. 🔒 Closed issue [#153](https://github.com/rowan-vr/CustomAdvancements/issues/153) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
 <!--END_SECTION:activity-->
 
 ## Statistics
