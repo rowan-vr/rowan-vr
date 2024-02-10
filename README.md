@@ -6,11 +6,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10176](https://github.com/PaperMC/Paper/pull/10176#issuecomment-1913389823) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
-2. 💪 Opened PR [#10176](https://github.com/PaperMC/Paper/pull/10176) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
-3. 🗣 Commented on [#10175](https://github.com/PaperMC/Paper/pull/10175#issuecomment-1897734317) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
-4. 💪 Opened PR [#10175](https://github.com/PaperMC/Paper/pull/10175) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
-5. 🗣 Commented on [#179](https://github.com/rowan-vr/CustomAdvancements/issues/179#issuecomment-1873058642) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+1. ❗ Opened issue [#5](https://github.com/rowan-vr/rowan-vr/issues/5) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
+2. ❗ Opened issue [#4](https://github.com/rowan-vr/rowan-vr/issues/4) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
+3. ❗ Opened issue [#3](https://github.com/rowan-vr/rowan-vr/issues/3) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
+4. ❗ Opened issue [#2](https://github.com/rowan-vr/rowan-vr/issues/2) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
+5. 🗣 Commented on [#10176](https://github.com/PaperMC/Paper/pull/10176#issuecomment-1913389823) in [PaperMC/Paper](https://github.com/PaperMC/Paper)
 <!--END_SECTION:activity-->
 
 ## Statistics
