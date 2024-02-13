@@ -1,5 +1,4 @@
 ![header](https://github.com/rowan-vr/rowan-vr/blob/main/header.png?raw=true)
-<div align="center" style="display: flex; flex: row;"><img src="https://github-profile-trophy.vercel.app/?username=rowan-vr&column=8&theme=onedark" align="center" /> </div>
 
 ## Contributions
 <div align="center" style="display: flex; flex: row;"><img src="https://github.com/rowan-vr/rowan-vr/blob/output/github-contribution-grid-snake.gif" align="center" /> </div>
