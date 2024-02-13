@@ -1,7 +1,11 @@
 ![header](https://github.com/rowan-vr/rowan-vr/blob/main/header.png?raw=true)
 
 ## Contributions
-<div align="center" style="display: flex; flex: row;"><img src="https://github.com/rowan-vr/rowan-vr/blob/output/github-contribution-grid-snake.gif" align="center" /> </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rowan-vr/rowan-vr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rowan-vr/rowan-vr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rowan-vr/rowan-vr/output/github-snake.svg" />
+</picture>
 
 ## Recent Activity
 <!--START_SECTION:activity-->
