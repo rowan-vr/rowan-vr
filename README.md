@@ -9,11 +9,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/rowan-vr/CustomAdvancements/issues/190#issuecomment-1997925439) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
-2. ❗ Opened issue [#5](https://github.com/rowan-vr/rowan-vr/issues/5) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
-3. ❗ Opened issue [#4](https://github.com/rowan-vr/rowan-vr/issues/4) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
-4. ❗ Opened issue [#3](https://github.com/rowan-vr/rowan-vr/issues/3) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
-5. ❗ Opened issue [#2](https://github.com/rowan-vr/rowan-vr/issues/2) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
+1. 🎉 Merged PR [#1](https://github.com/rowan-vr/LexerLearning/pull/1) in [rowan-vr/LexerLearning](https://github.com/rowan-vr/LexerLearning)
+2. 🗣 Commented on [#190](https://github.com/rowan-vr/CustomAdvancements/issues/190#issuecomment-1997925439) in [rowan-vr/CustomAdvancements](https://github.com/rowan-vr/CustomAdvancements)
+3. ❗ Opened issue [#5](https://github.com/rowan-vr/rowan-vr/issues/5) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
+4. ❗ Opened issue [#4](https://github.com/rowan-vr/rowan-vr/issues/4) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
+5. ❗ Opened issue [#3](https://github.com/rowan-vr/rowan-vr/issues/3) in [rowan-vr/rowan-vr](https://github.com/rowan-vr/rowan-vr)
 <!--END_SECTION:activity-->
 
 ## Statistics
