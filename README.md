@@ -9,11 +9,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023#issuecomment-2147961834) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-2. ❗ Opened issue [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-3. 🎉 Merged PR [#2](https://github.com/rowan-vr/LexerLearning/pull/2) in [rowan-vr/LexerLearning](https://github.com/rowan-vr/LexerLearning)
-4. 🗣 Commented on [#632](https://github.com/GiPHouse/Website/issues/632#issuecomment-2066583347) in [GiPHouse/Website](https://github.com/GiPHouse/Website)
-5. 🎉 Merged PR [#1](https://github.com/rowan-vr/LexerLearning/pull/1) in [rowan-vr/LexerLearning](https://github.com/rowan-vr/LexerLearning)
+1. 🗣 Commented on [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023#issuecomment-2155554509) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+2. 🔒 Closed issue [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+3. 🗣 Commented on [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023#issuecomment-2147961834) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+4. ❗ Opened issue [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+5. 🎉 Merged PR [#2](https://github.com/rowan-vr/LexerLearning/pull/2) in [rowan-vr/LexerLearning](https://github.com/rowan-vr/LexerLearning)
 <!--END_SECTION:activity-->
 
 ## Statistics
