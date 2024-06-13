@@ -9,11 +9,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023#issuecomment-2155554509) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-2. 🔒 Closed issue [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-3. 🗣 Commented on [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023#issuecomment-2147961834) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-4. ❗ Opened issue [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-5. 🎉 Merged PR [#2](https://github.com/rowan-vr/LexerLearning/pull/2) in [rowan-vr/LexerLearning](https://github.com/rowan-vr/LexerLearning)
+1. ❗ Opened issue [#1486](https://github.com/OneUptime/oneuptime/issues/1486) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
+2. ❗ Opened issue [#1485](https://github.com/OneUptime/oneuptime/issues/1485) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
+3. ❗ Opened issue [#1484](https://github.com/OneUptime/oneuptime/issues/1484) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
+4. 🗣 Commented on [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023#issuecomment-2155554509) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+5. 🔒 Closed issue [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
 <!--END_SECTION:activity-->
 
 ## Statistics
