@@ -26,7 +26,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 628 Contributions in the Year 2024
+> 🏆 629 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,16 +61,21 @@ Sunday                   2389 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   3 hrs 54 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.65 % 
+YAML                     7 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.06 % 
+Java                     0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.17 % 
+GitIgnore file           0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.10 % 
+Text                     0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            4 hrs 2 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SRPVehicles              4 hrs 2 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   99.82 % 
+LexerLearning            0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.18 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 2 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +95,7 @@ Python                   1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/rowan-vr/rowan-vr/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2024 02:04:24 UTC
+ Last Updated on 13/07/2024 02:04:17 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
