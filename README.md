@@ -9,11 +9,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/rowan-vr/TippieUtils/pull/14) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-2. ❗ Opened issue [#1486](https://github.com/OneUptime/oneuptime/issues/1486) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
-3. ❗ Opened issue [#1485](https://github.com/OneUptime/oneuptime/issues/1485) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
-4. ❗ Opened issue [#1484](https://github.com/OneUptime/oneuptime/issues/1484) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
-5. 🗣 Commented on [#2023](https://github.com/headlamp-k8s/headlamp/issues/2023#issuecomment-2155554509) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+1. ❗ Opened issue [#82](https://github.com/supabase-community/supabase-kubernetes/issues/82) in [supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)
+2. 🎉 Merged PR [#14](https://github.com/rowan-vr/TippieUtils/pull/14) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+3. ❗ Opened issue [#1486](https://github.com/OneUptime/oneuptime/issues/1486) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
+4. ❗ Opened issue [#1485](https://github.com/OneUptime/oneuptime/issues/1485) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
+5. ❗ Opened issue [#1484](https://github.com/OneUptime/oneuptime/issues/1484) in [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
 <!--END_SECTION:activity-->
 
 ## Statistics
