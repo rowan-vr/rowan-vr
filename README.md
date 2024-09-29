@@ -9,11 +9,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/rowan-vr/TippieUtils/pull/15) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-2. 🗣 Commented on [#15](https://github.com/rowan-vr/TippieUtils/pull/15#issuecomment-2380956379) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-3. 💪 Opened PR [#15](https://github.com/rowan-vr/TippieUtils/pull/15) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-4. 🗣 Commented on [#78](https://github.com/supabase-community/supabase-kubernetes/issues/78#issuecomment-2350237557) in [supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)
-5. ❗ Opened issue [#82](https://github.com/supabase-community/supabase-kubernetes/issues/82) in [supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)
+1. 🎉 Merged PR [#16](https://github.com/rowan-vr/TippieUtils/pull/16) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+2. 🎉 Merged PR [#15](https://github.com/rowan-vr/TippieUtils/pull/15) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+3. 🗣 Commented on [#15](https://github.com/rowan-vr/TippieUtils/pull/15#issuecomment-2380956379) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+4. 💪 Opened PR [#15](https://github.com/rowan-vr/TippieUtils/pull/15) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+5. 🗣 Commented on [#78](https://github.com/supabase-community/supabase-kubernetes/issues/78#issuecomment-2350237557) in [supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)
 <!--END_SECTION:activity-->
 
 ## Statistics
