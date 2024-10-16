@@ -26,8 +26,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 786 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -97,7 +95,7 @@ Python                   1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/rowan-vr/rowan-vr/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2024 02:21:46 UTC
+ Last Updated on 16/10/2024 02:22:20 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
