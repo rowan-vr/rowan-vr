@@ -63,46 +63,46 @@ Sunday                   3160 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Java                     2 hrs 32 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   68.77 % 
-TOML                     36 mins             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.36 % 
-Kotlin                   18 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.48 % 
-YAML                     8 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.82 % 
-XML                      2 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.10 % 
+Java                     55 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   61.69 % 
+TOML                     24 mins             ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.22 % 
+Kotlin                   9 mins              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.01 % 
+GitIgnore file           0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.07 % 
+YAML                     0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 45 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   74.71 % 
-Codex Vscode             55 mins             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.29 % 
+IntelliJ IDEA            1 hr 11 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   78.98 % 
+Codex Vscode             18 mins             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.02 % 
 
 🐱‍💻 Projects: 
-RPHBugs                  3 hrs 9 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   85.73 % 
-SRPHousing               17 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.98 % 
-SRPPlayerList            9 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.44 % 
-SRPItems                 4 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.85 % 
+RPHBugs                  58 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   65.21 % 
+SRPHousing               17 mins             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.49 % 
+SRPPlayerList            9 mins              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.87 % 
+SRPItems                 3 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.42 % 
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Windows                  1 hr 30 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (34.25%)
+⏱ AI Coding Time: 22 mins (24.67%)
 
-✍️ 761 lines written by AI, 482 lines written by hand (61.22% AI-written)
+✍️ 31 lines written by AI, 194 lines written by hand (13.78% AI-written)
 
-🔤 263,156 Input Tokens, 51,636 Output Tokens
+🔤 81,685 Input Tokens, 3,982 Output Tokens
 
-💵 $6.49 Estimated AI Cost This Week
+💵 $1.50 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 19 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-GPT                      832 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+GPT                      31 lines            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.22% of written lines came from AI
-📄 Detailed Prompter — average 690 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 38.73% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 13.78% of written lines came from AI
+📝 Concise Prompter — average 426 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 86.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -122,7 +122,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/rowan-vr/rowan-vr/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 05:46:37 UTC
+ Last Updated on 11/09/2026 05:47:03 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats
