@@ -9,11 +9,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/rowan-vr/TippieUtils/pull/17) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-2. ❗ Opened issue [#1](https://github.com/rowan-vr/VelocityAuth/issues/1) in [rowan-vr/VelocityAuth](https://github.com/rowan-vr/VelocityAuth)
-3. 🎉 Merged PR [#16](https://github.com/rowan-vr/TippieUtils/pull/16) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-4. 🎉 Merged PR [#15](https://github.com/rowan-vr/TippieUtils/pull/15) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
-5. 🗣 Commented on [#15](https://github.com/rowan-vr/TippieUtils/pull/15#issuecomment-2380956379) in [rowan-vr/TippieUtils](https://github.com/rowan-vr/TippieUtils)
+1. 💪 Opened PR [#5](https://github.com/rowan-vr/kanji-katanki/pull/5) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
+2. ❌ Closed PR [#2](https://github.com/rowan-vr/kanji-katanki/pull/2) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
+3. 💪 Opened PR [#4](https://github.com/rowan-vr/kanji-katanki/pull/4) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
+4. 💪 Opened PR [#3](https://github.com/rowan-vr/kanji-katanki/pull/3) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
+5. 💪 Opened PR [#2](https://github.com/rowan-vr/kanji-katanki/pull/2) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
 <!--END_SECTION:activity-->
 
 ## Statistics
