@@ -9,11 +9,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/rowan-vr/kanji-katanki/releases/tag/v0.1.0) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
-2. 🎉 Merged PR [#28](https://github.com/rowan-vr/kanji-katanki/pull/28) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
-3. 💪 Opened PR [#28](https://github.com/rowan-vr/kanji-katanki/pull/28) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
-4. 🎉 Merged PR [#27](https://github.com/rowan-vr/kanji-katanki/pull/27) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
-5. 💪 Opened PR [#27](https://github.com/rowan-vr/kanji-katanki/pull/27) in [rowan-vr/kanji-katanki](https://github.com/rowan-vr/kanji-katanki)
+1. 🔒 Closed issue [#14](https://github.com/rowan-vr/memuki/issues/14) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+2. 🔒 Closed issue [#15](https://github.com/rowan-vr/memuki/issues/15) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+3. 🔒 Closed issue [#13](https://github.com/rowan-vr/memuki/issues/13) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+4. 🎉 Merged PR [#140](https://github.com/rowan-vr/memuki/pull/140) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+5. 💪 Opened PR [#140](https://github.com/rowan-vr/memuki/pull/140) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
 <!--END_SECTION:activity-->
 
 ## Statistics
