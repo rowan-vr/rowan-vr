@@ -9,11 +9,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#175](https://github.com/rowan-vr/memuki/pull/175) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
-2. ❗ Opened issue [#174](https://github.com/rowan-vr/memuki/issues/174) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
-3. 🗣 Commented on [#173](https://github.com/rowan-vr/memuki/issues/173#issuecomment-6525813499) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
-4. 🔒 Closed issue [#173](https://github.com/rowan-vr/memuki/issues/173) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
-5. ❗ Opened issue [#173](https://github.com/rowan-vr/memuki/issues/173) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+1. 💪 Opened PR [#179](https://github.com/rowan-vr/memuki/pull/179) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+2. 💪 Opened PR [#178](https://github.com/rowan-vr/memuki/pull/178) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+3. 💪 Opened PR [#177](https://github.com/rowan-vr/memuki/pull/177) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+4. 🔒 Closed issue [#174](https://github.com/rowan-vr/memuki/issues/174) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
+5. 🎉 Merged PR [#175](https://github.com/rowan-vr/memuki/pull/175) in [rowan-vr/memuki](https://github.com/rowan-vr/memuki)
 <!--END_SECTION:activity-->
 
 ## Statistics
